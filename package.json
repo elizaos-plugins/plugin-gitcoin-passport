@@ -1,11 +1,10 @@
 {
-    "name": "@elizaos/plugin-gitcoin-passport",
+    "name": "@elizaos-plugins/plugin-gitcoin-passport",
     "version": "0.1.9",
     "main": "dist/index.js",
     "type": "module",
     "types": "dist/index.d.ts",
     "dependencies": {
-        "@elizaos/core": "workspace:*",
         "tsup": "8.3.5"
     },
     "devDependencies": {
